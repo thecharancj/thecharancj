@@ -88,7 +88,7 @@ Experienced Full Stack Developer skilled in backend, frontend, and DevOps, with 
 
 ## **Connect with me**
 <div align="center">
-<a href="https://github.com/thecharancj" target="_blank">
+<a href="https://github.com/thecharanck" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/thecharanck" target="_blank">
